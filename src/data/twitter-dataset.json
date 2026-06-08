@@ -1,0 +1,85 @@
+
+{
+  "tweets": [
+    {
+      "id": "1",
+      "username": "user123",
+      "content": "Just had the best coffee ever! #morningvibes",
+      "timestamp": "2025-04-10T08:30:00Z",
+      "likes": 5,
+      "retweets": 1
+    },
+    {
+      "id": "2",
+      "username": "cyberbully88",
+      "content": "You're such an idiot @victim22, nobody cares about your opinions! #shutup",
+      "timestamp": "2025-04-10T09:15:00Z",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "3",
+      "username": "coffeeaddict",
+      "content": "Working on a new project today. Excited to share soon! #coding #developer",
+      "timestamp": "2025-04-10T10:20:00Z",
+      "likes": 12,
+      "retweets": 3
+    },
+    {
+      "id": "4",
+      "username": "hater99",
+      "content": "@victim22 Why don't you just delete your account? Nobody wants to see your ugly face anyway.",
+      "timestamp": "2025-04-10T11:05:00Z",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "5",
+      "username": "techguru",
+      "content": "Just released my new tutorial on React hooks! Check it out: https://example.com/tutorial #react #webdev",
+      "timestamp": "2025-04-10T12:30:00Z",
+      "likes": 45,
+      "retweets": 23
+    },
+    {
+      "id": "6",
+      "username": "victim22",
+      "content": "Thanks for all the support. Taking a break from social media for a while.",
+      "timestamp": "2025-04-10T14:10:00Z",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "id": "7",
+      "username": "foodlover",
+      "content": "Made an amazing pasta dish tonight! Recipe in bio #homecooking #foodie",
+      "timestamp": "2025-04-10T18:25:00Z",
+      "likes": 18,
+      "retweets": 4
+    },
+    {
+      "id": "8",
+      "username": "troll_king",
+      "content": "People from your country are all dumb @foreignuser. Go back where you came from! #getalife",
+      "timestamp": "2025-04-10T19:40:00Z",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "9",
+      "username": "booklover",
+      "content": "Just finished reading 'The Silent Patient'. Highly recommend! #bookworm #reading",
+      "timestamp": "2025-04-10T21:05:00Z",
+      "likes": 15,
+      "retweets": 3
+    },
+    {
+      "id": "10",
+      "username": "meanperson",
+      "content": "@victim22 LOL did you really think anyone would miss you? Your so pathetic!",
+      "timestamp": "2025-04-10T22:15:00Z",
+      "likes": 1,
+      "retweets": 0
+    }
+  ]
+}
